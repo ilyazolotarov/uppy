@@ -1,0 +1,7 @@
+- @uppy/provider-views: Fix google photos picker (Mikael Finstad / #5717)
+- meta: build(deps): bump nanoid from 3.3.7 to 5.1.2 (dependabot[bot] / #5664)
+- examples: build(deps-dev): bump vite from 5.4.16 to 5.4.17 (dependabot[bot] / #5707)
+- @uppy/utils: Fix type check ci (Mikael Finstad / #5714)
+- @uppy/angular: Support Angular 19 (#5709) (Arnaud Flaesch / #5715)
+- meta: simplify e2e (Mikael Finstad / #5711)
+- meta: fix ready to commit (Mikael Finstad / #5713)

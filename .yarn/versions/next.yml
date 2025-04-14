@@ -1,0 +1,4 @@
+releases:
+  "@uppy/angular": minor
+  "@uppy/provider-views": patch
+  "uppy": minor
